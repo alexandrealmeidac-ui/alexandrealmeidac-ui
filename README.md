@@ -59,5 +59,5 @@ Transformo processos complexos em sistemas inteligentes — na interseção entr
 ### 📬 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-alexandrealmeidac--ui-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandrealmeidac-ui/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-(85)%2099919--2261-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/5585991922610)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-(85)%2099192--2610-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/5585991922610)
 [![GitHub](https://img.shields.io/badge/GitHub-alexandrealmeidac--ui-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/alexandrealmeidac-ui)
